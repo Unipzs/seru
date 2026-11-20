@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/**/*.js": {
+      "includeFiles": "fonts/**",
+      "maxDuration": 60
+    }
+  }
+}
